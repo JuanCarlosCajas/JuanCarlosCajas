@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Juan Carlos, un entusiasta desarrollador web frontend junior de 21 años, originario de Perú y estudiante de la UniversidadPrivada del Norte. Desde que descubrí mi pasión por la programación, me he sumergido en el emocionante mundo del desarrollo web, explorando continuamente nuevas herramientas y técnicas para crear experiencias web sorprendentes y atractivas.
+¡Hola! Soy Juan Carlos, un entusiasta desarrollador web frontend junior de 21 años, originario de Perú y estudiante de la Universidad Privada del Norte. Desde que descubrí mi pasión por la programación, me he sumergido en el emocionante mundo del desarrollo web, explorando continuamente nuevas herramientas y técnicas para crear experiencias web sorprendentes y atractivas.
 
 
 # 💻 Tech Stack:
